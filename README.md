@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-<img src="https://imgur.com/a/V5mPEhB" alt="Welcome!" width="300"/>
+![Welcome to Vanessa's GitHub](result.gif)
 
 </div>
 
