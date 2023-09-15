@@ -9,21 +9,69 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
-### Programming Languages 🌐
+## My Tech Stack
 
-- Know/Using
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [**<img src="https://raw.githubusercontent.com/github/explore/3186ea2d804fce2c9dd2e8b4ddccc6480e430de6/topics/ruby/ruby.png" alt="ruby logo" width="24">**](https://www.ruby-lang.org/) | [**<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript logo" width="24">**](https://www.typescriptlang.org/)
-
-- Learning
-
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/python.png" alt="python logo" width="24">](https://www.python.org/) | [**<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/java.png" alt="java logo" width="24">**](https://www.java.com/)
-
-### Programming Tools 🛠️
-
-- Know/Using
-
-[**<img src="https://raw.githubusercontent.com/github/explore/3186ea2d804fce2c9dd2e8b4ddccc6480e430de6/topics/react/react.png" alt="react logo" width="24">**](https://reactjs.org/) | [**<img src="https://raw.githubusercontent.com/github/explore/3186ea2d804fce2c9dd2e8b4ddccc6480e430de6/topics/rails/rails.png" alt="rails logo" width="24">**](https://rubyonrails.org/)
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>React</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Python</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Django</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Java</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>MySql</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>C</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 Happy Coding! 😊
