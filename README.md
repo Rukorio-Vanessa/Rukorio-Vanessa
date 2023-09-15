@@ -10,6 +10,7 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
 ## My Tech Stack
+### Know/Using
 
 <table>
   <tbody>
@@ -34,9 +35,13 @@ Please feel free to clone projects and raise issues if you think something could
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Python</strong>
+        <span><strong>MySql</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Ruby</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+        <img height="64px" src="https://logowik.com/content/uploads/images/ruby.jpg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
@@ -49,6 +54,24 @@ Please feel free to clone projects and raise issues if you think something could
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
+        <span><strong>Rails</strong></span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjJlcpAS9_PK5D-fUaVgZFVWCq9BymzE9gVYSYYtMETA&s">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Learning
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Python</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+      </td>
+      <td width="25%" align="center">
         <span><strong>Django</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
       </td>
@@ -56,13 +79,8 @@ Please feel free to clone projects and raise issues if you think something could
         <span><strong>Java</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
     </tr>
   </tbody>
 </table>
-
 
 Happy Coding! 😊
