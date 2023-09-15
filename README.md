@@ -9,7 +9,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=Rukorio-Vanessa&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 Happy Coding! 😊
