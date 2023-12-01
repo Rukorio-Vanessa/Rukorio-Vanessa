@@ -57,7 +57,28 @@ Please feel free to clone projects and raise issues if you think something could
         <span><strong>Rails</strong></span><br><br><br>
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjJlcpAS9_PK5D-fUaVgZFVWCq9BymzE9gVYSYYtMETA&s">
       </td>
+      <td width="25%" align="center">
+        <span><strong>Python</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Django</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Postman</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
+      </td>
     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Postgres</strong></span><br><br><br>
+        <img height="64px" src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
+      </td>
+    </tr> 
   </tbody>
 </table>
 
@@ -67,9 +88,9 @@ Please feel free to clone projects and raise issues if you think something could
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Python</strong>
+        <span><strong>Kubernetes</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Django</strong></span><br><br><br>
