@@ -35,8 +35,8 @@ Please feel free to clone projects and raise issues if you think something could
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+        <span><strong>Bootstrap</strong></span><br><br><br>
+        <img height="64px" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Ruby</strong>
@@ -76,7 +76,7 @@ Please feel free to clone projects and raise issues if you think something could
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Postgres</strong></span><br><br><br>
-        <img height="64px" src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
+        <img height="64px" width="300px" src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
       </td>
     </tr> 
   </tbody>
